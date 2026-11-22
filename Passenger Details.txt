@@ -1,0 +1,18 @@
+Passenger Details 
+
+Name - Karanraj
+email - karanraj121@gmail.com
++91 8888444400
+
+password - test@123
+
+
+Driver 
+
+Name  - Rohan Bait
+
+email - rohan@gmail.com
+
++91 8888444411
+
+password - test@123
